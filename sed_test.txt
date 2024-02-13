@@ -1,0 +1,8 @@
+The fly flies like no fly flies.
+A fly is an insect that has wings and a fly likes to eat leftovers.
+
+# sed 's/fly/grasshopper/g'
+# for manipulate text by using regular expression (regex)
+
+The grasshopper flies like no grasshopper flies.
+A grasshopper is an insect that has wings and a grasshopper likes to eat leftovers.
